@@ -38,8 +38,8 @@
         
         <table>
             <tr>
-                <th>Attribute</th>
-                <th>Value</th>
+                <th>DATA</th>
+                <th>HASIL</th>
             </tr>
             <tr>
                 <td>Nama</td>
